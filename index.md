@@ -35,4 +35,4 @@ CheckList:
 - [x] Add an image
 - [x] Add a code example
 - [x] Make a task list
-- [x] Merge pull request
+- [] Merge pull request
