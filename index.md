@@ -29,3 +29,10 @@ def check(ar):
 s = scramble()
 print(s)
 ```
+
+CheckList:
+- [x] Add headers
+- [x] Add an image
+- [x] Add a code example
+- [x] Make a task list
+- [x] Merge pull request
